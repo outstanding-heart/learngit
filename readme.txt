@@ -3,8 +3,7 @@ Github is free software.
 
 I like Github, but Github is so hard to learn.
 
-
-
+It is a so busy world! A flippant and impatuous world!
 
 But I think I have enough power to hand it.
 
