@@ -11,3 +11,5 @@ lalalala hello world!
 I think the time for me is very short. I press to have more time!
 
 add a new branch!
+
+Create a new branch is quick & simple!
